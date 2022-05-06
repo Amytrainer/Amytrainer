@@ -12,6 +12,6 @@ I love to contribute to open source projects. I also write about web development
 
 <br>
 
-<a href="https://www.linkedin.com/amira-researcher">
+Find me on Linkedin <a href="https://www.linkedin.com/amira-researcher">
   <img align="left" alt="Shubham's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
