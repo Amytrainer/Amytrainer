@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Amira Ahmed 👋
 
-<!--
-**Amytrainer/Amytrainer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love to contribute to open source projects. I also write about web development, learning, and career **to help readers.** 
 
-Here are some ideas to get you started:
+<img align="right" alt="GIF" height="300px" width="300px" src="./assets/skr-sig.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on frontend development projects.
+- 🌱 I’m currently learning and mentoring React and Figma Designing and helping tech community through my [writing].
+- 👯 I’m willing to collaborate on building communitites, and research projects.
+- 📫 How to reach me: amira.signalian@gmail.com
+- 😄 Pronouns: She/Her.
+
+<br>
+
+<a href="https://www.linkedin.com/amira-researcher">
+  <img align="left" alt="Shubham's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
