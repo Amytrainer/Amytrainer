@@ -33,12 +33,9 @@ UX Researcher ! Front-End Developer & Designer ! Education Mentor
  <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
  
   <br></br>
+## 📫 How to reach me:
   
-  ## Connect with me:
-  Linkedin <a href="https://www.linkedin.com/amira-researcher">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
+[<img align ='center' src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" />](https://www.linkedin.com/in/amira-ahmed-researcher/)  &nbsp; [<img align ='center' src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/drdesigndotcode/)  &nbsp; <a href="mailto:amira.signalian@gmail.com"> <img align ='center' src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
   
 </br>
