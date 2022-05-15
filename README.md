@@ -35,7 +35,7 @@ UX Researcher ! Front-End Developer & Designer ! Education Mentor
   <br></br>
 ## 📫 How to reach me:
   
-[<img align ='center' src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" />](https://www.linkedin.com/in/amira-ahmed-researcher/)  &nbsp; [<img align ='center' src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/drdesigndotcode/)  &nbsp; <a href="mailto:amira.signalian@gmail.com"> <img align ='center' src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+[<img align ='center' src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" />](https://www.linkedin.com/in/amira-ahmed-researcher/)  &nbsp; [<img align ='center' src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/drdesigndotcode/)  &nbsp; <a href="mailto:amira.signalian@gmail.com"> <img align ='center' src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>  &nbsp; [<img align ='center' src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-shadow-tal-revivo.png" width="3.5%"/>](https://www.researchgate.net/profile/Amira-Ahmed-16)
 
   
 </br>
