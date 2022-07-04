@@ -6,7 +6,7 @@ UX Researcher ! Front-End Developer & Designer ! Education Mentor
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-- 🔭 I’m currently working on frontend development projects on various bootcamps under Institute of code.
+- 🔭 I’m currently working on frontend development projects on various bootcamps under Institute of code.[My recent Article](https://www.bathspa.ac.uk/our-people/bath-spa-stories/amira-ahmeds-story/?)
 - 🌱 I’m currently learning and mentoring React and Figma Designing and helping tech community through my mentoring and web experience.
 - 👯 I’m willing to collaborate on building communitites, and research projects.
 - 📫 How to reach me: amira.signalian@gmail.com
