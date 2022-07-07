@@ -1,6 +1,6 @@
 ## Hi, I'm Amira Ahmed 👋
 
-UX Researcher ! Front-End Developer & Designer ! Education Mentor
+UX Researcher ! Front-End Developer & Designer ! Education Mentor | Tech Coach
 
 -I love to contribute to open source projects. I also write about web development, learning, and career **to help readers.** 
 
