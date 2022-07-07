@@ -12,6 +12,15 @@ UX Researcher ! Front-End Developer & Designer ! Education Mentor
 - 📫 How to reach me: amira.signalian@gmail.com
 - 😄 Pronouns: She/Her.
 
+
+Believe in five programming principles:
+
+- **KISS- Keep It Simple,Stupid.**
+- **DRY - Dont Repeat Yourself.**
+- **DTIIW - Don't Touch If It Works.**
+- **YAGNI- You arn't Gonna Need It.**
+- **CCAAC- Clean Code At All Cost.**
+
 <br>
 
 
